@@ -11,6 +11,9 @@ Building a portfolio of research and engineering projects for graduate study in 
 
 ## Technical Skills
 **Hardware:** Arduino, ESP32, PLCs
+
 **Languages:** C/C++, Python, MATLAB
+
 **Software:** Fusion 360, SolidWorks, Gazebo, RViz
+
 **Tools:** Git, ROS
