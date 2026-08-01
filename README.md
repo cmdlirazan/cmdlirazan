@@ -1,4 +1,4 @@
-# Christine Lirazan
+# Hello, I'm Christine!
 Senior Mechatronics Engineering student at Kennesaw State University.
 Building a portfolio of research and engineering projects for graduate study in robotics.
 
@@ -17,3 +17,10 @@ Building a portfolio of research and engineering projects for graduate study in 
 **Software:** Fusion 360, SolidWorks, Gazebo, RViz
 
 **Tools:** Git, ROS
+
+
+.         ⊹ ₊
+      __  ♡
+⊂⊂  • )  
+   /     | 
+⊂_﹏u
