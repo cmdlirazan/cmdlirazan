@@ -10,9 +10,7 @@ Building a portfolio of research and engineering projects for graduate study in 
 - Robotics
 
 ## Technical Skills
+**Hardware:** Arduino, ESP32, PLCs
 **Languages:** C/C++, Python, MATLAB
-**Platforms & Tools:** ROS, ESP32, Arduino, PLCs, SolidWorks, Fusion 360, Git, Gazebo, RViz
-
-## Connect
-- LinkedIn: https://www.linkedin.com/in/christine-lirazan
-- Email: cmdlirazan@students.kennesaw.edu
+**Software:** Fusion 360, SolidWorks, Gazebo, RViz
+**Tools:** Git, ROS
