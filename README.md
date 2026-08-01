@@ -7,7 +7,7 @@ Building a portfolio of research and engineering projects for graduate study in 
 - Control Systems
 - Internet of Things (IoT)
 - Robot Operating System (ROS)
-- Robotics
+- (Soft) Robotics
 
 ## Technical Skills
 **Hardware:** Arduino, ESP32, PLCs
