@@ -3,10 +3,8 @@ Senior Mechatronics Engineering student at Kennesaw State University.
 Building a portfolio of research and engineering projects for graduate study in robotics.
 
 ## Interests
-- Autonomous Systems
 - Control Systems
 - Internet of Things (IoT)
-- Robot Operating System (ROS)
 - (Soft) Robotics
 
 ## Technical Skills
