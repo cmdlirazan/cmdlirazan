@@ -18,6 +18,7 @@ Building a portfolio of research and engineering projects for graduate study in 
 
 **Tools:** Git, ROS
 
+```
 ⠀⠀⠀⠀⠀⠀⠀⠀⢀⡼⢲⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡖⢳⠄⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⢀⡞⠀⣸⣠⠤⡄⠀⠀⠀⠀⢠⡟⠁⣸⣤⠶⡄⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⡾⢀⣴⠏⠀⢠⠇⠀⠀⠀⠀⡾⢀⣴⠋⠀⢰⠇⠀⠀⠀⠀⠀⠀
@@ -29,3 +30,4 @@ Building a portfolio of research and engineering projects for graduate study in 
 ⠀⠀⠀⠈⣧⠀⢲⠀⠀⠀⠀⢀⡀⠀⠈⣷⠀⢸⡀⠀⠀⠀⣀⡀⠀⠀⠀⠀⠀⣡
 ⠀⠀⠀⠼⢥⣴⠋⠀⢀⡴⡟⠉⢀⣀⣸⡧⣴⠋⢀⣀⡴⣟⣁⣀⣀⡠⠤⠈⠁⠀
 ⠀⠀⠀⠀⠀⠈⠙⠉⠁⠀⠉⠉⠉⠀⠀⠀⠈⠉⠉⠀⠀⠈⠉⠁⠀⠀⠀⠀⠀⠀
+```
