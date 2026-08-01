@@ -1,16 +1,19 @@
-## Hi there 👋
+# Christine Lirazan
+Senior Mechatronics Engineering student at Kennesaw State University.
 
-<!--
-**cmdlirazan/cmdlirazan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building a portfolio of research and engineering projects for graduate study in robotics.
 
-Here are some ideas to get you started:
+## Interests
+- Robotics & Autonomous Systems
+- Robot Operating System (ROS)
+- Embedded Systems
+- Control Systems
+- Internet of Things (IoT)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+**Languages:** C/C++, Python, MATLAB
+**Platforms & Tools:** ROS, ESP32, Arduino, PLCs, SolidWorks, Fusion 360, Git, Gazebo, RViz
+
+## Connect
+- LinkedIn: [LinkedIn]
+- Email: [Email]
