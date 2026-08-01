@@ -1,5 +1,5 @@
 # Hello, I'm Christine!
-I'm a senior Mechatronics Engineering student at Kennesaw State University documenting my engineering projects while preparing for graduate study in robotics.
+Senior Mechatronics Engineering student at Kennesaw State University documenting my engineering projects while preparing for graduate study in robotics.
 
 ## Interests
 - Control Systems
