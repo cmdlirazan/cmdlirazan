@@ -21,6 +21,7 @@ Senior Mechatronics Engineering student @ Kennesaw State University
 
 ## Featured Projects
 - Robot Drone Navigation in Complex Terrains for NASA's Space Exploration
+- ROS Mobile Robot Navigation
 - PetAir: A Smart Air Safety Monitoring Device for Pets
 - Hybrid Soil Moisture Irrigation System
 - Escalator Speed Control System
