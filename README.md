@@ -1,5 +1,5 @@
 # Hello, I'm Christine!
-Senior Mechatronics Engineering student at Kennesaw State University
+Senior Mechatronics Engineering student @ Kennesaw State University
 
 ## Tech Stack
 ![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white)
