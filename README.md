@@ -18,7 +18,7 @@ Senior Mechatronics Engineering student @ Kennesaw State University
 - Robotics
 
 
-## Featured Projects
+## [Featured Projects](https://github.com/cmdlirazan/Featured-Projects)
 - Robot Drone Navigation in Complex Terrains for NASA's Space Exploration
 - ROS Mobile Robot Navigation
 - [PetAir: A Smart Air Safety Monitoring Device for Pets](https://www.dropbox.com/scl/fi/56za36g2u3p1b1y1zc9yl/Lirazan_PetAIR.mov?rlkey=1ujibp0uufnelgyxzf1s0w68j&st=2j76rj2f&dl=0)
