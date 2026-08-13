@@ -21,6 +21,6 @@ Senior Mechatronics Engineering student @ Kennesaw State University
 ## Featured Projects
 - Robot Drone Navigation in Complex Terrains for NASA's Space Exploration
 - ROS Mobile Robot Navigation
-- [PetAir: A Smart Air Safety Monitoring Device for Pets]((https://www.dropbox.com/scl/fi/56za36g2u3p1b1y1zc9yl/Lirazan_PetAIR.mov?rlkey=1ujibp0uufnelgyxzf1s0w68j&st=2j76rj2f&dl=0))
+- [PetAir: A Smart Air Safety Monitoring Device for Pets](https://www.dropbox.com/scl/fi/56za36g2u3p1b1y1zc9yl/Lirazan_PetAIR.mov?rlkey=1ujibp0uufnelgyxzf1s0w68j&st=2j76rj2f&dl=0)
 - [Hybrid Soil Moisture Irrigation System](https://github.com/cmdlirazan/Featured-Projects/blob/main/Lirazan_Dual-Mode%20Soil%20Moisture%E2%80%93Based%20Irrigation%20System%20Using%20Digital%20Logic/Lirazan_Dual-Mode%20Soil%20Moisture%E2%80%93Based%20Irrigation%20System%20Using%20Digital%20Logic.pdf)
 - Escalator Speed Control System
